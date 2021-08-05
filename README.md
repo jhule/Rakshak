@@ -6,6 +6,4 @@ and other is for getting the view of distant objects on top of the rover.
 
 
 
-<img src="CAD_Model.PNG" > <img src="Final_Prototype.PNG">
-
-
+<img src="CAD_Model.PNG" >     <img src="Final_Prototype.PNG" height="240" width="200">
